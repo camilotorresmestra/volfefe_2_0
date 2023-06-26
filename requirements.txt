@@ -1,0 +1,8 @@
+git+https://github.com/JustAnotherArchivist/snscrape.git
+pandas
+matplotlib
+seaborn
+tqdm
+Ipython
+ipywidgets
+pymongo[srv]==4.2.0
